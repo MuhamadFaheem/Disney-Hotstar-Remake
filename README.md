@@ -1,4 +1,4 @@
-# dinda_app
+# DisneyHotstarClone_app
 
 A new Flutter project.
 
